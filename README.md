@@ -1,2 +1,2 @@
 # CSE360
-CSE360 Projct Repository
+CSE360 Project Repository
